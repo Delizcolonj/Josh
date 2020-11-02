@@ -34,7 +34,7 @@ class Ball:
         if py > (self.CONSTS.BORDER + self.RADIUS):
             self.vy = -self.vy
         # Bottom wall
-        if py < ((self.CONSTS.HEIGHT-self.CONSTS.BORDER) + self.RADIUS):
+        if py < ((self.CONSTS.HEIGHT-2.5*self.CONSTS.BORDER) + self.RADIUS):
             self.vy = -self.vy
 
         self.x = self.x + self.vx
