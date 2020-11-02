@@ -1,4 +1,4 @@
-# Josh
+# Updated the main and updated everything to .py... pongwalls = Lab3
 
 ##Lab3 Pong
 ! [png] (https://github.com/Delizcolonj/Josh/blob/master/PygamePongBorders.PNG)
